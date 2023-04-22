@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
- /*course model*/
+ 
 
 package model;
 
 /**
  *
- * @author omega
+ * 
  */
 public class Course {
     private String course_id;
